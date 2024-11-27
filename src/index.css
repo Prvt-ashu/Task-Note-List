@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+li {
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    width: 91.666667vw;
+    border-radius: 1.2rem;
+}
+.completetask{
+    text-decoration: line-through;
+    background: red;
+    
+}
+.completetask :active {
+    scale: 2rem;
+}
