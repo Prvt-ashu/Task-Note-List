@@ -3,7 +3,7 @@ Task Note List
 
 Overview
 
-Task Note List is a simple and efficient to-do list application designed to help you manage your tasks and stay organized. Within just a few hours of development, this app provides a user-friendly interface that allows you to add, edit, and delete tasks easily. Whether you're planning your day or managing long-term projects, Task Note List is here to keep you on track.
+Task Note List is a simple and efficient to-do list application designed to help you manage your tasks and stay organized. Within just a few hours of development, this app provides a user-friendly interface that allows you to add and delete tasks easily. Whether you're planning your day or managing long-term projects, Task Note List is here to keep you on track.
 
 
 Features
